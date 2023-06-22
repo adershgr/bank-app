@@ -1,0 +1,44 @@
+.landing-page {
+  background-color: #ecf3ef;
+  color: #000000;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.cta-content {
+  background-color: #c9e5cf;
+}
+
+.display-content {
+  margin-top: 10rem;
+
+}
+
+.cta-button {
+  margin: 4rem;
+  padding: 20px;
+
+}
+
+h4 {
+  line-height: 2;
+}
+
+.underline {
+  text-decoration: underline;
+  margin-bottom: 2rem;
+}
+
+.image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.full-size-image {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}

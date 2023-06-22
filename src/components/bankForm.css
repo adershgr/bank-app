@@ -1,0 +1,15 @@
+.form-head {
+    margin-bottom: 4rem;
+    margin-left: 2rem;
+}
+
+.form-detail {
+    background-color: #ecf3ef;
+    margin-top: 4rem;
+    padding: 50px;
+}
+
+.label-style {
+    font-size: 15px;
+    padding-left: 25px;
+}
